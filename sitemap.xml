@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://paulthomson.dev/</loc>
+    <lastmod>2020-02-28T15:14:32+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://paulthomson.dev/posts/my-first-post/</loc>
+    <lastmod>2020-02-28T15:14:32+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://paulthomson.dev/posts/</loc>
+    <lastmod>2020-02-28T15:14:32+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://paulthomson.dev/tags/</loc>
+    <lastmod>2020-02-28T15:14:32+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://paulthomson.dev/tags/untagged/</loc>
+    <lastmod>2020-02-28T15:14:32+11:00</lastmod>
+  </url>
+  
+</urlset>
